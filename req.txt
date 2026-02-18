@@ -1,0 +1,10 @@
+reactionmenu
+discord.py
+pytube
+motor
+requests
+colorama
+Pillow
+jishaku
+orjson
+psutil
